@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://telegra.ph/file/17ded061a4ae0833a77b7.jpg" alt="StringGen">
+  <img src="https://graph.org/file/15cdd01477616f9870085.jpg" alt="StringGen">
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/Itzvenomo"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
+  <a href="https://github.com/SUJOY0007"><img alt="Website" src="https://img.shields.io/badge/KHOONI-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/Itzvenomo/String?style=social)](https://github.com/Itzvenomo/String/stargazers)
   [![Forks](https://img.shields.io/github/forks/Itzvenomo/String?style=social)](https://github.com/Itzvenomo/String/fork)
