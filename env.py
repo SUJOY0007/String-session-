@@ -3,12 +3,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = os.getenv("API_ID", "14202110").strip()
-API_HASH = os.getenv("API_HASH", "45f3a3ac8effd88e42aeabe3cfe4f520").strip()
+API_ID = os.getenv("API_ID", "22547942").strip()
+API_HASH = os.getenv("API_HASH", "30b57052c9903c0a23f6d4cf55ec1b32").strip()
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
-OWNER_ID = list(map(int, os.getenv("OWNER_ID", "5537497510").split()))
+OWNER_ID = list(map(int, os.getenv("OWNER_ID", "2058379497").split()))
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
-MUST_JOIN = os.getenv("MUST_JOIN", "Its_Venom_family")
+MUST_JOIN = os.getenv("MUST_JOIN", "AASHIYANA_MERA")
 
 if not API_ID:
     print("No API_ID found. Exiting...")
